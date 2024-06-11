@@ -13,10 +13,10 @@ by [Thomas Vitale](https://www.thomasvitale.com).
 
 ## Useful Commands
 
-| Gradle Command                   | Description                                   |
+| Maven Command                    | Description                                   |
 |:---------------------------------|:----------------------------------------------|
 | `./mvnw spring-boot:run`         | Run the application.                          |
-| `./mvnw install`                 | Build the application.                        |
+| `./mvnw package`                 | Build the application.                        |
 | `./mvnw test`                    | Run tests.                                    |
 | `./mvnw spring-boot:repackage`   | Package the application as a JAR.             |
 | `./mvnw spring-boot:build-image` | Package the application as a container image. |
